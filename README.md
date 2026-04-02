@@ -9,5 +9,5 @@ This tool will take a standard Rekordbox.xml file and once pointed to your main 
  1) The BMP found in the XML to the MP3 files ID3 tag
  2) Fill the Mp3's COMMENTS tag with BPM, Rating, Music Key
 
-# Vibe coded tool, so use at your own risk. Backup your main music folder just in case.
+**Vibe coded tool, so use at your own risk. Backup your main music folder just in case.**
 This git hub repo serves as a storage from my own needs, while on the move. 🤘🎧
