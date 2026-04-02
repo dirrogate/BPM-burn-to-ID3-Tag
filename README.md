@@ -11,6 +11,7 @@ This tool will take a standard Rekordbox.xml file and once pointed to your main 
 
 **Vibe coded tool, so use at your own risk. Backup your main music folder just in case.**
 This git hub repo serves as a storage for my own needs, while on the move. 🤘🎧
-** Installation:
+
+**Installation:**
 Download the zip and extract. 
 Run the exe file.
