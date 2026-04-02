@@ -10,7 +10,8 @@ It's a PITA to have to go through Rekordbox and update its XML file, then upload
 
 This tool will take a standard Rekordbox.xml file and once pointed to your main Music Folder, will iterate through and burn:
  1) The BMP found in the XML to the MP3 files ID3 tag
- 2) Fill the Mp3's COMMENTS tag with BPM, Rating, Music Key
+ 2) The Musical Key
+ 3) Fill the Mp3's COMMENTS tag with BPM, Rating, Music Key
 
 **Vibe coded tool, so use at your own risk. Backup your main music folder just in case.**
 This git hub repo serves as a storage for my own needs, while on the move. 🤘🎧
